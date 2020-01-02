@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54962c96-4c51-4709-b724-579582cef7f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataStructureAndAlgorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +15,59 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="hot_fix" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/hot_fix" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\dataStructureAndAlgorithms\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -33,6 +80,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -60,22 +108,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577949136060</updated>
-      <workItem from="1577949139662" duration="242000" />
+      <workItem from="1577949139662" duration="969000" />
     </task>
+    <task id="LOCAL-00001" summary="this is a test">
+      <created>1577949448500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577949448500</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this is a test" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is a test" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="677" y="312" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577949321776">
+    <state x="452" y="95" key="#Notifications" timestamp="1577949590266">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="677" y="312" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577949321776" />
+    <state x="452" y="95" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1577949590266" />
+    <state x="677" y="312" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577950263455">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="312" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577950263455" />
+    <state x="493" y="41" key="CommitChangelistDialog2" timestamp="1577949446590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="493" y="41" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577949446590" />
     <state x="690" y="201" key="FileChooserDialogImpl" timestamp="1577949251532">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="201" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577949251532" />
+    <state x="746" y="389" key="Github.ShareDialog" timestamp="1577949477031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="746" y="389" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577949477031" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1577950086376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577950086376" />
     <state x="161" y="57" key="new project wizard" timestamp="1577949273044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
