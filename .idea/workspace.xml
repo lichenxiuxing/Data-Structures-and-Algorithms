@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54962c96-4c51-4709-b724-579582cef7f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataStructureAndAlgorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayQueue/arrayQueue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayQueue/src/arrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/arrayQueue/arrayQueue$ArrayQueueDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/arrayQueue/arrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/dataStructureAndAlgorithms/sparseArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparseArray/sparseArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sparseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,13 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -26,7 +34,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1VpTf5B3TZQb7ETeRWCO9ZCZHRf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -37,6 +47,31 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.arrayQueue">
+    <configuration name="arrayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayQueue" />
+      <module name="arrayQueue" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sparseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sparseArray" />
+      <module name="dataStructureAndAlgorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.arrayQueue" />
+        <item itemvalue="Application.sparseArray" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -62,23 +97,86 @@
       <updated>1577949136060</updated>
       <workItem from="1577949139662" duration="242000" />
     </task>
+    <task id="LOCAL-00001" summary="nothing">
+      <created>1577951536168</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577951536168</updated>
+    </task>
+    <task id="LOCAL-00002" summary="nothing">
+      <created>1577951682978</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577951682978</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nothing" />
+    <option name="LAST_COMMIT_MESSAGE" value="nothing" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="452" y="95" key="#Project_Structure" timestamp="1577954588312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="95" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1577954588312" />
     <state x="677" y="312" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577949321776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="677" y="312" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577949321776" />
+    <state x="493" y="41" key="CommitChangelistDialog2" timestamp="1578046747104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="493" y="41" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578046747103" />
     <state x="690" y="201" key="FileChooserDialogImpl" timestamp="1577949251532">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="201" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577949251532" />
-    <state x="161" y="57" key="new project wizard" timestamp="1577949273044">
+    <state width="1867" height="261" key="GridCell.Tab.0.bottom" timestamp="1578045268101">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="161" y="57" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1577949273044" />
+    <state width="1867" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578045268101" />
+    <state width="1867" height="261" key="GridCell.Tab.0.center" timestamp="1578045268101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578045268101" />
+    <state width="1867" height="261" key="GridCell.Tab.0.left" timestamp="1578045268101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578045268101" />
+    <state width="1867" height="261" key="GridCell.Tab.0.right" timestamp="1578045268101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578045268101" />
+    <state width="1867" height="323" key="GridCell.Tab.1.bottom" timestamp="1578036878741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="323" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578036878741" />
+    <state width="1867" height="323" key="GridCell.Tab.1.center" timestamp="1578036878741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="323" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578036878741" />
+    <state width="1867" height="323" key="GridCell.Tab.1.left" timestamp="1578036878741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="323" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578036878741" />
+    <state width="1867" height="323" key="GridCell.Tab.1.right" timestamp="1578036878741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="323" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578036878741" />
+    <state x="161" y="57" key="new project wizard" timestamp="1578040450542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="161" y="57" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578040450542" />
+    <state x="532" y="237" key="run.anything.popup" timestamp="1578035607342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578035607342" />
   </component>
 </project>
