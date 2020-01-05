@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54962c96-4c51-4709-b724-579582cef7f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/linkedList/src/DoubleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linkedList/DoubleLinkedLiseDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linkedList/DoubleLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linkedList/HeroNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linkedList/HeroNode2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linkedList/LinkedLiseDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/ArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +46,16 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.DoubleLinkedList">
+  <component name="RunManager" selected="Application.TestPrivatePublic">
     <configuration name="DoubleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DoubleLinkedList" />
+      <module name="linkedList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Josephu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Josephu" />
       <module name="linkedList" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,6 +68,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestPrivatePublic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestPrivatePublic" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="arrayCircleQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrayCircleQueue" />
       <module name="arrayQueue" />
@@ -71,27 +82,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayQueue" />
-      <module name="arrayQueue" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestPrivatePublic" />
+        <item itemvalue="Application.Josephu" />
         <item itemvalue="Application.DoubleLinkedList" />
         <item itemvalue="Application.LinkedList" />
         <item itemvalue="Application.arrayCircleQueue" />
-        <item itemvalue="Application.arrayQueue" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578216514363</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2020/1/5.2">
+      <created>1578216650535</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578216650535</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,34 +199,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="677" y="312" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577949321776" />
-    <state x="721" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1578206295788">
+    <state x="721" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1578227599425">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="721" y="160" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578206295788" />
-    <state x="493" y="41" key="CommitChangelistDialog2" timestamp="1578216512634">
+    <state x="721" y="160" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578227599425" />
+    <state x="493" y="41" key="CommitChangelistDialog2" timestamp="1578216648623">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="493" y="41" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578216512634" />
+    <state x="493" y="41" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578216648623" />
     <state x="690" y="201" key="FileChooserDialogImpl" timestamp="1577949251532">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="201" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577949251532" />
-    <state width="1867" height="344" key="GridCell.Tab.0.bottom" timestamp="1578216483217">
+    <state width="1867" height="344" key="GridCell.Tab.0.bottom" timestamp="1578228231367">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578216483217" />
-    <state width="1867" height="344" key="GridCell.Tab.0.center" timestamp="1578216483217">
+    <state width="1867" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578228231367" />
+    <state width="1867" height="344" key="GridCell.Tab.0.center" timestamp="1578228231366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578216483217" />
-    <state width="1867" height="344" key="GridCell.Tab.0.left" timestamp="1578216483217">
+    <state width="1867" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578228231366" />
+    <state width="1867" height="344" key="GridCell.Tab.0.left" timestamp="1578228231366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578216483217" />
-    <state width="1867" height="344" key="GridCell.Tab.0.right" timestamp="1578216483217">
+    <state width="1867" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578228231366" />
+    <state width="1867" height="344" key="GridCell.Tab.0.right" timestamp="1578228231366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578216483217" />
+    <state width="1867" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578228231366" />
     <state width="1867" height="323" key="GridCell.Tab.1.bottom" timestamp="1578036878741">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -239,10 +243,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1867" height="323" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578036878741" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1578216524352">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1578216657751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578216524352" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578216657751" />
     <state x="161" y="57" key="new project wizard" timestamp="1578054422029">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
