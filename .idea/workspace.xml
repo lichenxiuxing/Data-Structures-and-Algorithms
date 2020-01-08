@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54962c96-4c51-4709-b724-579582cef7f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Recuision/Recuision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recuision/src/MiGong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recuision/src/Queue8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recuision/src/RecursionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Recuision/MiGong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Recuision/Queue8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Recuision/RecursionTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/HeroNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/SingleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/testFetch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,17 +56,17 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.RePolandCal">
-    <configuration name="ArrayStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayStack" />
-      <module name="stack" />
+  <component name="RunManager" selected="Application.Queue8">
+    <configuration name="MiGong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiGong" />
+      <module name="Recuision" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator" />
-      <module name="stack" />
+    <configuration name="Queue8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue8" />
+      <module name="Recuision" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,9 +78,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPrivatePublic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestPrivatePublic" />
-      <module name="test" />
+    <configuration name="RecursionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursionTest" />
+      <module name="Recuision" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Queue8" />
+        <item itemvalue="Application.MiGong" />
+        <item itemvalue="Application.RecursionTest" />
         <item itemvalue="Application.RePolandCal" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.ArrayStack" />
-        <item itemvalue="Application.TestPrivatePublic" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578278014676</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2020/1/8.1">
+      <created>1578466443723</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1578466443723</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,7 +217,8 @@
     <MESSAGE value="2020/1/5.2" />
     <MESSAGE value="2020/1/5.3" />
     <MESSAGE value="2020/1/6.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020/1/6.1" />
+    <MESSAGE value="2020/1/8.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020/1/8.1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="626" y="115" key="#ArrayQueueDemo" timestamp="1578050535716">
@@ -231,30 +241,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="721" y="160" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578274816797" />
-    <state x="493" y="41" key="CommitChangelistDialog2" timestamp="1578278012453">
+    <state x="493" y="41" key="CommitChangelistDialog2" timestamp="1578466441458">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="493" y="41" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578278012453" />
+    <state x="493" y="41" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578466441458" />
     <state x="690" y="201" key="FileChooserDialogImpl" timestamp="1578394762815">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="201" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578394762815" />
-    <state width="1867" height="344" key="GridCell.Tab.0.bottom" timestamp="1578466407823">
+    <state width="1867" height="344" key="GridCell.Tab.0.bottom" timestamp="1578475703031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578466407823" />
-    <state width="1867" height="344" key="GridCell.Tab.0.center" timestamp="1578466407822">
+    <state width="1867" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578475703031" />
+    <state width="1867" height="344" key="GridCell.Tab.0.center" timestamp="1578475703031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578466407822" />
-    <state width="1867" height="344" key="GridCell.Tab.0.left" timestamp="1578466407822">
+    <state width="1867" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578475703031" />
+    <state width="1867" height="344" key="GridCell.Tab.0.left" timestamp="1578475703031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578466407822" />
-    <state width="1867" height="344" key="GridCell.Tab.0.right" timestamp="1578466407823">
+    <state width="1867" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578475703031" />
+    <state width="1867" height="344" key="GridCell.Tab.0.right" timestamp="1578475703031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578466407823" />
+    <state width="1867" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578475703031" />
     <state width="1867" height="323" key="GridCell.Tab.1.bottom" timestamp="1578293826918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -275,14 +285,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578404310676" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1578278028559">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1578466452573">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578278028559" />
-    <state x="161" y="57" key="new project wizard" timestamp="1578394174145">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578466452573" />
+    <state x="161" y="57" key="new project wizard" timestamp="1578467902968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="161" y="57" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578394174145" />
+    <state x="161" y="57" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578467902968" />
     <state x="532" y="237" key="run.anything.popup" timestamp="1578035607342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

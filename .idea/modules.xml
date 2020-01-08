@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Recuision/Recuision.iml" filepath="$PROJECT_DIR$/Recuision/Recuision.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrayQueue/arrayQueue.iml" filepath="$PROJECT_DIR$/arrayQueue/arrayQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/dataStructureAndAlgorithms.iml" filepath="$PROJECT_DIR$/dataStructureAndAlgorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedList/linkedList.iml" filepath="$PROJECT_DIR$/linkedList/linkedList.iml" />
