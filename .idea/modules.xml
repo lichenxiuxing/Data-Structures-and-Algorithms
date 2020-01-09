@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/arrayQueue/arrayQueue.iml" filepath="$PROJECT_DIR$/arrayQueue/arrayQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/dataStructureAndAlgorithms.iml" filepath="$PROJECT_DIR$/dataStructureAndAlgorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedList/linkedList.iml" filepath="$PROJECT_DIR$/linkedList/linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort/sort.iml" filepath="$PROJECT_DIR$/sort/sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/sparseArray/sparseArray.iml" filepath="$PROJECT_DIR$/sparseArray/sparseArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
