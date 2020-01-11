@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54962c96-4c51-4709-b724-579582cef7f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/sort/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sort/InsertSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sort/SelectSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sort/ShellSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/sort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/src/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/src/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/src/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/src/ShellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/sort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/src/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sort/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sort/ShellSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sort/src/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/src/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sort/src/ShellSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +46,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.ShellSort">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BubbleSort" />
       <module name="sort" />
@@ -73,9 +69,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queue8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queue8" />
-      <module name="Recuision" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSort" />
+      <module name="sort" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.ShellSort" />
         <item itemvalue="Application.InsertSort" />
         <item itemvalue="Application.SelectSort" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.Queue8" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578476552362</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2020/1/9.1">
+      <created>1578568155873</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1578568155873</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +231,8 @@
     <MESSAGE value="2020/1/6.1" />
     <MESSAGE value="2020/1/8.1" />
     <MESSAGE value="2020/1/8.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020/1/8.2" />
+    <MESSAGE value="2020/1/9.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020/1/9.1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="626" y="115" key="#ArrayQueueDemo" timestamp="1578050535716">
@@ -251,54 +255,58 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="721" y="160" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578274816797" />
-    <state x="493" y="41" key="CommitChangelistDialog2" timestamp="1578476550474">
+    <state x="493" y="41" key="CommitChangelistDialog2" timestamp="1578568154069">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="493" y="41" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578476550474" />
+    <state x="493" y="41" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578568154069" />
     <state x="690" y="201" key="FileChooserDialogImpl" timestamp="1578394762815">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="201" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578394762815" />
-    <state width="1867" height="344" key="GridCell.Tab.0.bottom" timestamp="1578560158761">
+    <state width="1867" height="344" key="GridCell.Tab.0.bottom" timestamp="1578747639287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578560158761" />
-    <state width="1867" height="344" key="GridCell.Tab.0.center" timestamp="1578560158761">
+    <state width="1867" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578747639287" />
+    <state width="1867" height="344" key="GridCell.Tab.0.center" timestamp="1578747639286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578560158761" />
-    <state width="1867" height="344" key="GridCell.Tab.0.left" timestamp="1578560158761">
+    <state width="1867" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578747639286" />
+    <state width="1867" height="344" key="GridCell.Tab.0.left" timestamp="1578747639286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578560158761" />
-    <state width="1867" height="344" key="GridCell.Tab.0.right" timestamp="1578560158761">
+    <state width="1867" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578747639286" />
+    <state width="1867" height="344" key="GridCell.Tab.0.right" timestamp="1578747639287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578560158761" />
-    <state width="1867" height="323" key="GridCell.Tab.1.bottom" timestamp="1578293826918">
+    <state width="1867" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578747639287" />
+    <state width="1867" height="323" key="GridCell.Tab.1.bottom" timestamp="1578581805325">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="323" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578293826918" />
-    <state width="1867" height="323" key="GridCell.Tab.1.center" timestamp="1578293826918">
+    <state width="1867" height="323" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578581805325" />
+    <state width="1867" height="323" key="GridCell.Tab.1.center" timestamp="1578581805325">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="323" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578293826918" />
-    <state width="1867" height="323" key="GridCell.Tab.1.left" timestamp="1578293826918">
+    <state width="1867" height="323" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578581805325" />
+    <state width="1867" height="323" key="GridCell.Tab.1.left" timestamp="1578581805324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="323" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578293826918" />
-    <state width="1867" height="323" key="GridCell.Tab.1.right" timestamp="1578293826918">
+    <state width="1867" height="323" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578581805324" />
+    <state width="1867" height="323" key="GridCell.Tab.1.right" timestamp="1578581805325">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="323" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578293826918" />
+    <state width="1867" height="323" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578581805325" />
     <state x="312" y="0" key="SettingsEditor" timestamp="1578404310676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578404310676" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1578476560329">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1578568165535">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578476560329" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578568165535" />
+    <state x="627" y="230" key="extract.method.dialog" timestamp="1578579950213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="230" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578579950213" />
     <state x="161" y="57" key="new project wizard" timestamp="1578545815827">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -307,6 +315,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578035607342" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sort/src/QuickSort.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/dataStructureAndAlgorithms$RePolandCal.ic" NAME="RePolandCal Coverage Results" MODIFIED="1578404350366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

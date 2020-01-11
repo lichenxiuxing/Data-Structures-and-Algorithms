@@ -19,7 +19,7 @@ public class BubbleSort {
         System.out.println(Arrays.toString(arr));
     }
 
-    //冒泡排序方法实现
+    //冒泡排序方法实现,是一种交换排序
     public static void bubbleSort(int[] arr) {
         //每次确定一个数，共n个数，需进行n-1次
         //进行的次数
