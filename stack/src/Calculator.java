@@ -54,7 +54,6 @@ public class Calculator {
                         ns = "";
                     }
                 }
-
             }
         }
         // 扫描完后的出栈工作

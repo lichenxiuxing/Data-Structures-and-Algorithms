@@ -5,13 +5,16 @@ import java.util.Arrays;
  * 用户：biyang
  * 创建时间：2020/1/9
  * 15:16
+ * 比较次数：最好为n-1,最坏为n(n-1)/2
+ * 交换次数：最好为0,zuih
+ * 不会破坏稳定性
  */
 public class InsertSort {
     public static void main(String[] args) {
         //插入排序
-        int[] arr = {5, 4, 3, 2, 1};
+        int[] arr = {1, 2, 5, 3, 5, 4, 3, 1};
         System.out.println(Arrays.toString(arr));
-        insertSort(arr);
+        insertSort2(arr);
         System.out.println(Arrays.toString(arr));
     }
 
@@ -33,6 +36,20 @@ public class InsertSort {
             }
             //比较完毕后，将待插入值进行插入
             arr[insertBegin + 1] = insertValue;
+        }
+    }
+
+    public static void insertSort2(int[] arr) {
+        for (int i = 1; i < arr.length; i++) {
+            int temp = arr[i];
+            for (int j = i; j >= 0; j--) {
+                if (j > 0 && temp < arr[j - 1]) {
+                    arr[j] = arr[j - 1];
+                } else {
+                    arr[j] = temp;
+                    break;
+                }
+            }
         }
     }
 }

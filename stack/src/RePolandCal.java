@@ -66,8 +66,8 @@ public class RePolandCal {
 
     //中缀转为list
     public static List<String> midToList(String s) {
-        List<String> arrayList = new ArrayList<String>();
-        String temp = "";
+        List<String> arrayList = new ArrayList<>();
+        String temp;
         int i = 0;
         do {
             if ((s.charAt(i)) < 48 || (s.charAt(i) > 57)) {

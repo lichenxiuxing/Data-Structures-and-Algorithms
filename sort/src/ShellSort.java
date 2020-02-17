@@ -1,5 +1,3 @@
-import sun.font.FontRunIterator;
-
 import java.util.Arrays;
 
 /**
@@ -7,30 +5,30 @@ import java.util.Arrays;
  * 用户：biyang
  * 创建时间：2020/1/9
  * 16:22
+ * 是不稳定排序
  */
 public class ShellSort {
     public static void main(String[] args) {
         //希尔排序的实现，是插入排序的优化算法
-        int[] arr = {1, 2, 5, 3, 5, 4, 3, 2, 1};
+        int[] arr = {1, 2, 5, 3, 5, 4, 3, 1};
         System.out.println(Arrays.toString(arr));
-        shellSort2(arr);
+        shellSort(arr);
         System.out.println(Arrays.toString(arr));
     }
 
     public static void shellSort(int[] arr) {
-        //将待排序的数组进行分组,随着次数增加，分的组也随之增加，倍率为2,其中i为步长,也是组数
-        int temp = 0;
-        for (int i = arr.length / 2; i > 0; i /= 2) {
-            //先进行步长循环,得到每组中包含的元素，分成不同的组。
-            //所有组同时进行比较（并非比完一组，再比另一组），循环增加的既是组中的元素，也是不同的组
-            for (int j = i; j < arr.length; j++) {
-                //同组内的元素进行交换比较
-                for (int k = j - i; k >= 0; k -= i) {
-                    //交换法的实现
-                    if (arr[k + i] < arr[k]) {
-                        temp = arr[k];
-                        arr[k] = arr[k + i];
-                        arr[k + i] = temp;
+        int temp;
+        //gap为增量，（可以改变），由大向小进行循环，直到增量为1
+        for (int gap = arr.length / 2; gap > 0; gap /= 2) {
+            //找出每一组的第一个数
+            for (int j = 0; j < gap; j++) {
+                //找出一组中的所有数并进行比较
+                for (int k = j+gap; k < arr.length; k += gap) {
+                    //交换法的实现,代码有误，此处应是暴力求解，需两层循环
+                    if (arr[k]<arr[k-gap]) {
+                        temp = arr[k - gap];
+                        arr[k - gap] = arr[k];
+                        arr[k] = temp;
                     }
                 }
             }
@@ -39,16 +37,21 @@ public class ShellSort {
 
     //希尔排序的优化
     public static void shellSort2(int[] arr) {
-        for (int i = arr.length / 2; i > 0; i /= 2) {
-            //内部采用插入排序
-            for (int j = i; j < arr.length; j++) {
-                int tempValue = arr[j];
-                while (j - i >= 0 && tempValue < arr[j - i]) {
-                    arr[j] = arr[j - i];
-                    j -= i;
+        for (int gap = arr.length / 2; gap > 0; gap /= 2) {
+            //每组的第一个元素
+            for (int j = 0; j < gap; j++) {
+                for (int k = j + gap; k < arr.length; k += gap) {
+                    //内部采用插入排序(模仿插入排序，进行改写）
+                    int tempValue = arr[k];
+                    for (int i = k; i >= j; i -= gap) {
+                        if (i > j && tempValue < arr[i-gap]) {
+                            arr[i] = arr[i- gap];
+                        } else {
+                            arr[i] = tempValue;
+                            break;
+                        }
+                    }
                 }
-                arr[j] = tempValue;
-
             }
         }
     }

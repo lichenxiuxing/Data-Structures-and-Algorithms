@@ -1,8 +1,3 @@
-import com.sun.xml.internal.fastinfoset.tools.StAX2SAXReader;
-
-import javax.sound.midi.Soundbank;
-import javax.xml.stream.FactoryConfigurationError;
-import java.security.PublicKey;
 import java.util.Arrays;
 
 /**
@@ -10,6 +5,9 @@ import java.util.Arrays;
  * 用户：biyang
  * 创建时间：2020/1/9
  * 12:57
+ * 交换次数较多：最好为0（正序），最坏为3n(n-1)/2（逆序）
+ * 比较次数少：最好为n-1,最坏为n(n-1)/2
+ * 不会破坏稳定性
  */
 public class BubbleSort {
     public static void main(String[] args) {

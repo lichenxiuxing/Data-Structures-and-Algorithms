@@ -23,7 +23,7 @@ public class MiGong {
         System.out.println("生成的迷宫是");
         for (int i = 0; i < 8; i++) {
             for (int j = 0; j < 7; j++) {
-                System.out.printf(migong[i][j] + " ");
+                System.out.print(migong[i][j] + " ");
             }
             System.out.println();
         }

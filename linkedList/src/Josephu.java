@@ -20,7 +20,7 @@ public class Josephu {
 class CircleSingleLinkedList {
     public Boy first;
 
-    //添加Boy方法
+    //添加Boy方法（此方法应该写为构造方法）
     public void add(int m) {
         Boy temp = null;
         for (int i = 1; i <= m; i++) {
@@ -79,6 +79,12 @@ class CircleSingleLinkedList {
 
 class Boy {
     private int n;
+    private Boy next;
+
+    //构造函数
+    public Boy(int n) {
+        this.n = n;
+    }
 
     public int getN() {
         return n;
@@ -96,10 +102,5 @@ class Boy {
         this.next = next;
     }
 
-    private Boy next;
 
-    //构造函数
-    public Boy(int n) {
-        this.n = n;
-    }
 }
