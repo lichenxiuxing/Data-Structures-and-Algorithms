@@ -8,6 +8,7 @@ import java.util.LinkedList;
  * 用户：李晨
  * 创建时间：2020/2/17
  * 21:25
+ * 是稳定性排序
  */
 public class BucketSort {
     public static void main(String[] args) {
@@ -37,10 +38,10 @@ public class BucketSort {
         }
         //向桶中添加元素
         double d=max-min;
-        for (int i = 0; i <l ; i++) {
+        for (double v : arr) {
             //给桶进行编号
-            int num=(int)((arr[i]-min)/d*(l-1));
-            bucketList.get(num).add(arr[i]);
+            int num = (int) ((v - min) / d * (l - 1));
+            bucketList.get(num).add(v);
         }
         //将桶中元素进行排序
         for (LinkedList<Double> doubles : bucketList) {

@@ -20,7 +20,7 @@ public class MergeSort {
     private static void mergeSort(int[] arr, int l, int r) {
         //先做拆分
         if (l < r) {
-            int mid = (l + r) / 2;
+            int mid = l + (r - l) / 2;
             mergeSort(arr, l, mid);
             mergeSort(arr, mid + 1, r);
             merge(arr, l, mid, r);

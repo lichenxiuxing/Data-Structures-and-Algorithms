@@ -1,37 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54962c96-4c51-4709-b724-579582cef7f6" name="Default Changelist" comment="2020/2/17.1">
-      <change afterPath="$PROJECT_DIR$/out/production/sort/BucketSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sort/CountSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sort/MergeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/src/BucketSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/src/CountSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/src/MergeSort.java" afterDir="false" />
+    <list default="true" id="54962c96-4c51-4709-b724-579582cef7f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recuision/src/MiGong.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recuision/src/MiGong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recuision/src/Queue8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recuision/src/Queue8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkedList/src/Josephu.java" beforeDir="false" afterPath="$PROJECT_DIR$/linkedList/src/Josephu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkedList/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/linkedList/src/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Recuision/MiGong.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Recuision/MiGong.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Recuision/Queue8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Recuision/Queue8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linkedList/Boy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linkedList/Boy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linkedList/HeroNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linkedList/HeroNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linkedList/LinkedLiseDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linkedList/LinkedLiseDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linkedList/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sort/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sort/InsertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sort/BucketSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sort/BucketSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sort/CountSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sort/CountSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sort/MergeSort.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sort/SelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sort/SelectSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sort/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sort/ShellSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sort/src/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/src/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sort/src/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/TestPrivatePublic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/TestPrivatePublic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/src/BucketSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sort/src/BucketSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/src/CountSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sort/src/CountSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/src/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sort/src/MergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sort/src/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sort/src/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/src/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sort/src/SelectSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/src/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sort/src/ShellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/src/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/stack/src/ArrayStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/stack/src/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/src/RePolandCal.java" beforeDir="false" afterPath="$PROJECT_DIR$/stack/src/RePolandCal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/TestPrivatePublic.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/TestPrivatePublic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/test1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +29,9 @@
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="272" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="dataStructureAndAlgorithm" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -78,24 +67,23 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.BucketSort">
-    <configuration name="BucketSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BucketSort" />
-      <module name="sort" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\javaDir\dataStructureAndAlgorithm\binartTree\src" />
+      <recent name="H:\javaDir\dataStructureAndAlgorithm\search\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="LeetCodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeTest" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountSort" />
-      <module name="sort" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeSort" />
-      <module name="sort" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,20 +95,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShellSort" />
-      <module name="sort" />
+    <configuration name="QuickSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSortTest" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test2" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BucketSort" />
-        <item itemvalue="Application.CountSort" />
-        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.ShellSort" />
+        <item itemvalue="Application.QuickSortTest" />
+        <item itemvalue="Application.LeetCodeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +145,36 @@
       <workItem from="1578843807699" duration="84000" />
       <workItem from="1581693074005" duration="22446000" />
       <workItem from="1581786419682" duration="7117000" />
-      <workItem from="1581878184902" duration="12547000" />
+      <workItem from="1581878184902" duration="33271000" />
+      <workItem from="1582109311350" duration="24662000" />
+      <workItem from="1582440128714" duration="10343000" />
+      <workItem from="1582514593130" duration="6895000" />
+      <workItem from="1582626920230" duration="7907000" />
+      <workItem from="1588740639284" duration="5633000" />
+      <workItem from="1588898546341" duration="19651000" />
+      <workItem from="1589362676495" duration="14734000" />
+      <workItem from="1589621440866" duration="24875000" />
+      <workItem from="1590207689711" duration="41141000" />
+      <workItem from="1591360417202" duration="11020000" />
+      <workItem from="1592657946980" duration="623000" />
+      <workItem from="1592699570279" duration="91000" />
+      <workItem from="1594559295624" duration="16415000" />
+      <workItem from="1594793649668" duration="5321000" />
+      <workItem from="1595032191695" duration="937000" />
+      <workItem from="1595136439536" duration="1191000" />
+      <workItem from="1595250222209" duration="4542000" />
+      <workItem from="1595511870850" duration="614000" />
+      <workItem from="1595680399931" duration="7642000" />
+      <workItem from="1596004935835" duration="2072000" />
+      <workItem from="1596269990785" duration="621000" />
+      <workItem from="1596365300659" duration="11347000" />
+      <workItem from="1596861717245" duration="3044000" />
+      <workItem from="1597142614409" duration="599000" />
+      <workItem from="1597372925883" duration="1292000" />
+      <workItem from="1597477950938" duration="874000" />
+      <workItem from="1597481923762" duration="5592000" />
+      <workItem from="1598359386939" duration="3084000" />
+      <workItem from="1598923982493" duration="597000" />
     </task>
     <task id="LOCAL-00001" summary="nothing">
       <created>1577951536168</created>
@@ -243,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578568155873</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2020/2/17.1">
+      <created>1581947981800</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1581947981800</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,124 +295,50 @@
     <option name="LAST_COMMIT_MESSAGE" value="2020/2/17.1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="626" y="115" key="#ArrayQueueDemo" timestamp="1578050535716">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="626" y="115" key="#ArrayQueueDemo/0.0.1920.1040@0.0.1920.1040" timestamp="1578050535716" />
-    <state x="452" y="95" key="#Project_Structure" timestamp="1578050559736">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="452" y="95" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1578050559736" />
-    <state x="677" y="312" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577949321776">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="677" y="312" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577949321776" />
-    <state x="665" y="326" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1578394765252">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="665" y="326" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578394765252" />
-    <state x="721" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1578274816797">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="721" y="160" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578274816797" />
-    <state x="98" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581780911813">
+    <state x="488" y="86" key="#com.intellij.ide.util.MemberChooser" timestamp="1594793822325">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="98" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1581780911813" />
-    <state x="351" y="0" key="CommitChangelistDialog2" timestamp="1581947947495">
+    <state x="488" y="86" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1594793822325" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1597560806909">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="351" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581947947495" />
-    <state x="493" y="41" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578568154069" />
-    <state x="491" y="141" key="FileChooserDialogImpl" timestamp="1578843840930">
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597560806909" />
+    <state width="1323" height="219" key="GridCell.Tab.0.bottom" timestamp="1597659437023">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="491" y="141" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578843840930" />
-    <state x="690" y="201" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578394762815" />
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1581947823750">
+    <state width="1323" height="219" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597659437023" />
+    <state width="1323" height="219" key="GridCell.Tab.0.center" timestamp="1597659437023">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581947823750" />
-    <state width="1867" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578747639287" />
-    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1581947823750">
+    <state width="1323" height="219" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597659437023" />
+    <state width="1323" height="219" key="GridCell.Tab.0.left" timestamp="1597659437023">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581947823750" />
-    <state width="1867" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578747639286" />
-    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1581947823750">
+    <state width="1323" height="219" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597659437023" />
+    <state width="1323" height="219" key="GridCell.Tab.0.right" timestamp="1597659437023">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581947823750" />
-    <state width="1867" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578747639286" />
-    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1581947823750">
+    <state width="1323" height="219" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597659437023" />
+    <state width="1323" height="219" key="GridCell.Tab.1.bottom" timestamp="1597659437024">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581947823750" />
-    <state width="1867" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578747639287" />
-    <state width="1323" height="236" key="GridCell.Tab.1.bottom" timestamp="1581947820036">
+    <state width="1323" height="219" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597659437024" />
+    <state width="1323" height="219" key="GridCell.Tab.1.center" timestamp="1597659437024">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="236" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581947820036" />
-    <state width="1867" height="323" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578581805325" />
-    <state width="1323" height="236" key="GridCell.Tab.1.center" timestamp="1581947820036">
+    <state width="1323" height="219" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1597659437024" />
+    <state width="1323" height="219" key="GridCell.Tab.1.left" timestamp="1597659437023">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="236" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1581947820036" />
-    <state width="1867" height="323" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578581805325" />
-    <state width="1323" height="236" key="GridCell.Tab.1.left" timestamp="1581947820033">
+    <state width="1323" height="219" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1597659437023" />
+    <state width="1323" height="219" key="GridCell.Tab.1.right" timestamp="1597659437024">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="236" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1581947820033" />
-    <state width="1867" height="323" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578581805324" />
-    <state width="1323" height="236" key="GridCell.Tab.1.right" timestamp="1581947820036">
+    <state width="1323" height="219" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597659437024" />
+    <state x="303" y="90" width="759" height="548" key="find.popup" timestamp="1594567075243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="236" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581947820036" />
-    <state width="1867" height="323" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578581805325" />
-    <state x="312" y="0" key="SettingsEditor" timestamp="1578404310676">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578404310676" />
-    <state x="404" y="105" width="540" height="524" key="StructurePopup" timestamp="1581754599131">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="404" y="105" width="540" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1581754599131" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1578568165535">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578568165535" />
-    <state x="627" y="230" key="extract.method.dialog" timestamp="1578579950213">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="627" y="230" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578579950213" />
-    <state x="0" y="0" width="759" height="728" key="find.popup" timestamp="1581780946677">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="0" y="0" width="759" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1581780946677" />
-    <state x="161" y="57" key="new project wizard" timestamp="1578545815827">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="161" y="57" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578545815827" />
-    <state x="378" y="166" width="672" height="677" key="run.anything.popup" timestamp="1581830371284">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="378" y="166" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1581830371284" />
-    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578035607342" />
-    <state x="0" y="25" key="scopes" timestamp="1581780925990">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="0" y="25" key="scopes/0.0.1366.728@0.0.1366.728" timestamp="1581780925990" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581772095979">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581772095979" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="arr" language="JAVA" />
-      </configuration>
-    </watches-manager>
+    <state x="303" y="90" width="759" height="548" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1594567075243" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/dataStructureAndAlgorithms$RePolandCal.ic" NAME="RePolandCal Coverage Results" MODIFIED="1578404350366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
